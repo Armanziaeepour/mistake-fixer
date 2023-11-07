@@ -15,3 +15,4 @@ alert(result) ;
 function remove () {
 firstint.value = '';
 }
+alert("salam");
